@@ -1,0 +1,2 @@
+C:\Users\korsa\source\repos\MergeSort\Debug\MergeSort.exe
+C:\Users\korsa\source\repos\MergeSort\Debug\MergeSort.pdb
